@@ -1,0 +1,53 @@
+.navbar {
+	background-color: #C456E8;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar-brand, .navbar-nav > li > a {
+	color: #363534;
+}
+
+.navbar-toggle {
+	background color: #c4c3c2;
+}
+
+.navbar-toggle .icon-bar {
+	background-color: #363534
+}
+
+.main-container {
+	padding: 20px;
+	margin-top: 40px;
+}
+
+.green {
+	background-color: #B7E376;
+	height: 200px;
+	border-radius: 10px;
+	margin: 5px 0;
+}
+
+.blue {
+	background-color: #76E3CA;
+	height: 150px;
+	border-radius: 10px;
+	margin: 5px 0;
+}
+
+.blue2 {
+	background-color: #4980C9;
+	height: 200px;
+	border-radius: 10px;
+	margin: 5px 0;
+}
+
+.gray {
+	background-color: gray;
+	height: 200px;
+	border-radius: 10px;
+	margin: 5px 0;
+}
+
